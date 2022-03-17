@@ -1,6 +1,6 @@
-## Shane Oston Stowe
+## Baljit Singh Rakhra
 #### Junior Full Stack Web Developer
-**Recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year client-facing career as a business analyst.**	Well-suited for agile development requiring deep and ongoing engagement with customers and stakeholders.
+**Recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year banking and public sector career.**	Well-suited for agile development requiring deep and ongoing engagement with customers and stakeholders.
 
 [Profile](#profile) -- [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
 ____
