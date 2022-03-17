@@ -1,13 +1,13 @@
 ## Baljit Singh Rakhra
 #### Junior Full Stack Web Developer
-**Recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year banking and public sector career.**	Well-suited for agile development requiring deep and ongoing engagement with customers and stakeholders.
+**Recent graduate of one of the most discerning dev bootcamps in the world, backed by a 16-year banking and public sector career.**	Well-suited for agile development requiring deep and ongoing engagement with customers and stakeholders.
 
 [Profile](#profile) -- [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
 ____
 ###<a name="profile">Profile</a>
-**I am living my dream.**
+**I am breaking the barriers.**
 
-I am a recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year client-facing career as a business analyst. I moved from a lucrative, “safe” career in California to realise a lifelong dream to live in the United Kingdom and to pursue a career in software development.
+I am a recent graduate of one of the most discerning dev bootcamps in the world, backed by a 16-year user-facing career. I moved from a lucrative, “safe” career in department for international trade to realise a lifelong dream to pursue a career in software development.
 
 I am professionally trained in agile development, pair programming, and test-driven development (TDD).  I am well suited to immediately contribute to front-end and back-end development. I am proficient on object-oriented design and programming. Most importantly, I am confident in my ability to quickly learn any new technology.
 
