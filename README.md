@@ -37,44 +37,20 @@ Here's a sampling of some the work I participated in at Makers Academy. Projects
 
 | Project                                                                                                                         | Summary                                                                                          | Technologies                                          |
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| [Takeaway Challenge](https://github.com/shaneoston72/takeaway-challenge)                                                        | A simple Ruby CLI application to process takeaway orders that included an Twilio API interface.  | Ruby, OOD, Twilio API usage                           |
-| [Makers BnB](https://github.com/shaneoston72/makers_bnb)                                                                        | An AirBnB clone application; our first effort at a team-built web application.                   | Ruby, Sinatra, Bootstrap, OOD                         |
-| [Post a Goat](https://github.com/shaneoston72/post-a-goat)                                                                      | A fun app built in Ruby on Rails and AngularJS that texts a goat to friends and family.          | Ruby on Rails API, AngularJS, Twilio API              |
-| Leave [Front end](https://github.com/shaneoston72/smartAlarm-mobile) [Back end](https://github.com/shaneoston72/smart_alarm_v2) | A mobile applicaiton that creates alarms that integrate real-time transit and weather data.      | Ruby on Rails API, AngularJS, Ionic, and various APIs |
+|                                                        | 
+|                                                               |     |                          |
+|                                                                      |         | 
+|  |  |
 
-You can see all of work thus far at [Github](https://github.com/shaneoston72).
+
 
 ### <a name="education">Education</a>
 **Software Developer Bootcamp: MAKERS ACADEMY** (London, UK)  
 *1 dev bootcamp in Europe  /  16-week program  /  10% acceptance rate*
 
-**Front-End Developer Nanodegree: UDACITY**  
-*Mobile and Web App UX & UI Design  /  Co-sponsored by Google, GitHub, AT&T, and Hack Reactor*
 
-**BA in Mathematics: SOUTHERN NEW HAMPSHIRE UNIVERSITY** (Manchester, NH)  
-*Additional Coursework in Computer and Information Science*
 
 ### <a name="experience">Professional experience</a>
-**Systems Analyst: OCTOCLEAN FRANCHISE SYSTEMS**  (Riverside, CA) 2006 – 2016  
-Headed development of 3 integrated, web-based systems, leading to10X growth for this building maintenance franchisor.  
-* CRM Implementation: Remapped back-office system, desktop apps, and operating policies to work through new CRM which linked Service, Sales, Scheduling, Contracts, and Accounting for the first time.
-* Wiki / Knowledgebase: Installed Confluence wiki with process maps and guidelines in parallel with deployment of training programs used to facilitate change management.
-
-**Consultant / Principal: THE OSTON GROUP** (San Francisco, CA) 2001 – 2006
-Implemented technology-driven solutions to boost profit margins and productivity for a broad range of business clients.
-* Referral Management System: Conceptualized and designed a web-based referral-tracking tool for a joint-venture, increasing linked referrals up to 40 percentage points and inspiring similar rollouts in 8 other regions.
-* CRM Implementation: Installed crucial CRM for behind-the-curve franchisor, stimulating 29% increase in new customer acquisitions without the need for any new hires.
-* Service Design & Launch: Created strategic roadmap for housing developer’s new Corporate Relocation Service, including opening up a brand new call center powered by CRM/Knowledgebase tool.
-
-**Senior Systems Consultant: E-LOYALTY** (Chicago, IL) 2000 – 2001  
-Joined forces with talent team known for salvaging failed multimillion-dollar enterprise CRM projects halted mid-stream.
-* CRM Reimplementation: Turned around $3.5M Clarify custom installation at a 200-person call center within 6 months, capturing a 44% increase in revenues immediately.
-*	CRM Reimplementation: Took control of national telco firm’s botched CRM implementation in its 2nd phase of development, delivering a streamlined, albeit more powerful, version that cost $1.7M less to deploy.
-
-**Senior Technical Engineer: SABA CORP** (Redwood Shores, CA) 1999 – 2000
-Led internal technology implementations and development initiatives for a thriving management consulting firm.
-* CRM Implementation: Handpicked to install and customize Clarify CRM, which required quick mastery of Sun, Oracle, UNIX, and BEA, full implementation, and training for nationwide staff - in support of massive 5X growth.
-* Support Automation Platform: Designed a web portal linked with Lucent-based ACD system.
 
 ### Interests
 Skydiver, single engine pilot, knitter (yes knitting), world traveler, adventurer
